@@ -1,0 +1,2 @@
+# Honeymine
+Hexagonal honeycomb Minesweeper
