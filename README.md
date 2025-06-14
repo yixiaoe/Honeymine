@@ -10,7 +10,7 @@
 ```bash
 git clone https://github.com/yixiaoe/Honeymine.git
 cd Honeymine
-cd build
+mkdir build && cd build
 cmake .. && cmake --build .
 ./bin/Honeymine
 ```
